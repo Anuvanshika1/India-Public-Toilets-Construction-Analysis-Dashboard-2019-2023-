@@ -1,4 +1,3 @@
-# StateWise_Public_toilet_Analysis_Dashboard
 # India Public Toilets Construction Analysis Dashboard (2019–2023)
 
 ## Project Overview
