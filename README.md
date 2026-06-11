@@ -1,7 +1,7 @@
 # India Public Toilets Construction Analysis Dashboard (2019–2023)
 
 ## Project Overview
-This repository hosts a comprehensive data analytics project focused on evaluating the development, growth trajectories, regional distributions, and financial releases for **Individual Household Latrines (IHHL)** and **Community Toilets / Public Toilets (CT/PT)** across various States and Union Territories (UTs) in India between **2019 and 2023**. 
+This repository hosts a comprehensive data analytics project focused on evaluating the development, growth trajectories, regional distributions, and financial releases for **Community Toilets / Public Toilets (CT/PT)** across various States and Union Territories (UTs) in India between **2019 and 2023**. 
 
 The entire analysis, data modeling, and visualization architecture were constructed **solely within Microsoft Excel**, powered by the core workbook file `Analysis_Public_Toilets_Dashboard.xlsx`. This project tracks national sanitation infrastructure progression milestones, highlighting key trends, high-performing regions, financial outlays, and comparative growth rates across multi-year temporal horizons.
 
